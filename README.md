@@ -1,5 +1,5 @@
 # wsl
-Testing Windows Subsystem For Linux v2
+Testing Windows Subsystem For Linux v2 Gui
 
 file_menu.c
 -----------
