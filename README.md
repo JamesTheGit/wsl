@@ -8,4 +8,9 @@ Demonstrates an issue with Motif menus in WSLg whereby menu items cannot be sele
 
 gcc -g file_menu.c -lXm -lXt -o file_menu
 
+hello_dialog.c
+-----------
 
+Demonstrates an issue where a 5 second delay occurs opening Xt dialogs.  To build the example, use the following command line:
+
+gcc -g hello_dialog.c -lXm -lXt -o hello_dialog
